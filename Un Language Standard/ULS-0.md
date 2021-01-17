@@ -12,4 +12,6 @@
 > <a href="https://github.com/MakeWheels-Runoob/un-language/blob/Un-0.1/Un%20Language%20Standard/ULS-3.md"> ULS-3 (Type of Un) </a>
 
 > <a href="https://github.com/MakeWheels-Runoob/un-language/blob/Un-0.1/Un%20Language%20Standard/ULS-4.md"> ULS-4 (Symbol of Un) </a>
+
+> <a href="https://github.com/MakeWheels-Runoob/un-language/blob/Un-0.1/Un%20Language%20Standard/ULS-5.md"> ULS-5 (Un basic syntax) </a>
 </details>
